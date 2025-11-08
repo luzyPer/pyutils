@@ -44,25 +44,25 @@
         "ftsize":16
     },
     "PCI_single":{
-        "plot_width":6.7,
-        "margin_left":1.1,
-        "margin_right":0.2,
-        "margin_bottom":1.0,
-        "margin_top":0.2,
-        "space_width":1.0,
-        "space_height":1.0,
+        "plot_width":6.8,
+        "margin_left":1.0,
+        "margin_right":0.15,
+        "margin_bottom":0.8,
+        "margin_top":0.1,
+        "space_width":0.5,
+        "space_height":0.5,
         "subplot_ratio":0.9,
-        "ftsize":9
+        "ftsize":8
     },
     "PCI_double":{
-        "plot_width":13.7,
-        "margin_left":1.1,
-        "margin_right":0.2,
-        "margin_bottom":1.0,
-        "margin_top":0.2,
-        "space_width":1.0,
-        "space_height":1.0,
+        "plot_width":14.4,
+        "margin_left":1.0,
+        "margin_right":0.15,
+        "margin_bottom":0.8,
+        "margin_top":0.1,
+        "space_width":0.5,
+        "space_height":0.5,
         "subplot_ratio":0.9,
-        "ftsize":9
+        "ftsize":8
     }
 }
